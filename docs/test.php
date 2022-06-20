@@ -8,7 +8,7 @@ if (isset($_POST['submit']))
    {
       if($username=='VIMAPLAYER' && $password=='vima2022')
       {
-         header (Location:"https://villarrealmanitoba.com");
+         header (Location:"https://www.villarrealmanitoba.com");
       }
       else{
           echo "Please correct usarname or password
